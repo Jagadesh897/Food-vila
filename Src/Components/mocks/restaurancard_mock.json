@@ -1,0 +1,76 @@
+{
+    "info": {
+        "id": "411519",
+        "name": "McDonald's",
+        "cloudinaryImageId": "6dc3ed2ca21d71acff7c2a51dfe4c720",
+        "locality": "Sector 14",
+        "areaName": "Dwarka",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+            "American"
+        ],
+        "avgRating": 4.2,
+        "feeDetails": {
+            "restaurantId": "411519",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 4600
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 4600
+        },
+        "parentId": "630",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "5K+",
+        "sla": {
+            "deliveryTime": 39,
+            "lastMileTravel": 2.8,
+            "serviceability": "SERVICEABLE",
+            "slaString": "39 mins",
+            "lastMileTravelString": "2.8 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-12-10 23:59:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹125 OFF",
+            "subHeader": "ABOVE ₹999",
+            "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/mcdonalds-sector-14-dwarka-delhi-411519",
+        "type": "WEBLINK"
+    }
+}
